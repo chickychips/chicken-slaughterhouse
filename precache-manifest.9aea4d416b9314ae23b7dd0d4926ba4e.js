@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "586a0b39f91786151deceaefd2f54cf0",
+    "revision": "66f4b80e2c421163ded69fc0aa12b354",
     "url": "/chicken-slaughterhouse/index.html"
   },
   {
