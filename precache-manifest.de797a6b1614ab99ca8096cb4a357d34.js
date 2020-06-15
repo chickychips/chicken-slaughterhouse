@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66f4b80e2c421163ded69fc0aa12b354",
+    "revision": "028ac80e024dafeb9d54a24fe78ec30f",
     "url": "/chicken-slaughterhouse/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chicken-slaughterhouse/static/css/6.e47115bf.chunk.css"
   },
   {
-    "revision": "1ed2d4ba0b6a56b5b5e2",
+    "revision": "d160882994591d2355c1",
     "url": "/chicken-slaughterhouse/static/css/main.0b514e66.chunk.css"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chicken-slaughterhouse/static/js/9.3d73130f.chunk.js"
   },
   {
-    "revision": "1ed2d4ba0b6a56b5b5e2",
-    "url": "/chicken-slaughterhouse/static/js/main.be80d7e1.chunk.js"
+    "revision": "d160882994591d2355c1",
+    "url": "/chicken-slaughterhouse/static/js/main.4b9b674c.chunk.js"
   },
   {
     "revision": "8740d27a2a0e58eafd6d",
