@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chicken-slaughterhouse/precache-manifest.69099994208c99266288b0bc7efb7530.js"
+  "/chicken-slaughterhouse/precache-manifest.cf445c631554327ef5242c273f730716.js"
 );
 
 self.addEventListener('message', (event) => {
