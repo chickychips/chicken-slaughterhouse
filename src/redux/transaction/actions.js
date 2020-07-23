@@ -1,0 +1,10 @@
+const actions = {
+  SET_STATE: 'transaction/SET_STATE',
+  GENERATE_ORDER_ID: 'transaction/GENERATE_ORDER_ID',
+  GET_TRANSACTION_DATA: 'transaction/GET_TRANSACTION_DATA',
+  GET_TRANSACTION_HISTORY: 'transaction/GET_TRANSACTION_HISTORY',
+  GET_TRANSACTION_DETAIL: 'transaction/GET_TRANSACTION_DETAIL',
+  ADD_TRANSACTION: 'transaction/ADD_TRANSACTION',
+}
+
+export default actions
